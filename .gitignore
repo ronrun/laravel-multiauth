@@ -13,5 +13,6 @@ yarn-error.log
 .env
 .phpunit.result.cache
 
+*.code-workspace
 php.bat
 composer.bat
