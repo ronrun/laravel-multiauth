@@ -1,0 +1,2 @@
+<?php
+define('FOLDER_ADMIN', env('FOLDER_ADMIN'), 'admin');
